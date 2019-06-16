@@ -1,3 +1,5 @@
+
+
 # Ponteiros em C
 A utilização de ponteiros em linguagem C é uma das características que tornam a linguagem tão flexível e poderosa.
 
